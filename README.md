@@ -1,1 +1,3 @@
 # qaportfolio
+
+halo ini belajar
